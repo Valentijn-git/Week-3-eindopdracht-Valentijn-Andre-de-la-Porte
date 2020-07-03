@@ -1,0 +1,5 @@
+-connect met API to database (console.log)
+-uit database alle taken die nog gedaan moeten worden op HTML pagina
+-fetch() to add task to database (takenlijst moet refreshed)
+-when button clicked do fetch()
+-
